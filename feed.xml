@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sebastian Limbach</title>
+    <description></description>
+    <link>http://github.limbachdesign.de/</link>
+    <atom:link href="http://github.limbachdesign.de/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 17 Aug 2016 16:13:05 +0200</pubDate>
+    <lastBuildDate>Wed, 17 Aug 2016 16:13:05 +0200</lastBuildDate>
+    <generator>Jekyll v3.2.0</generator>
+    
+      <item>
+        <title>Duo Vivesco</title>
+        <description>&lt;p&gt;A modern landing page with large images and…&lt;/p&gt;
+</description>
+        <pubDate>Fri, 29 Jul 2016 22:09:00 +0200</pubDate>
+        <link>http://github.limbachdesign.de/2016/07/29/duo-vivesco.html</link>
+        <guid isPermaLink="true">http://github.limbachdesign.de/2016/07/29/duo-vivesco.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Elke Limbach</title>
+        <description>&lt;p&gt;A simple and elegant &lt;a href=&quot;https://wordpress.org&quot;&gt;Wordpress&lt;/a&gt; theme with an outstanding &lt;a href=&quot;http://designmodo.com/hero-headers/&quot;&gt;hero header&lt;/a&gt; video and bold headlines. Optimized for a variety of devices and screen sizes, for a pleasant experience in every way.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 29 Jul 2016 22:09:00 +0200</pubDate>
+        <link>http://github.limbachdesign.de/2016/07/29/elke-limbach.html</link>
+        <guid isPermaLink="true">http://github.limbachdesign.de/2016/07/29/elke-limbach.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Peanutbutterspiritlover</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Landing_page&quot;&gt;Landing page&lt;/a&gt; for a local band. Large album cover and a &lt;a href=&quot;https://soundcloud.com&quot;&gt;Soundcloud&lt;/a&gt; integration provides a great sneak peek of there new music.&lt;/p&gt;
+
+</description>
+        <pubDate>Fri, 29 Jul 2016 22:09:00 +0200</pubDate>
+        <link>http://github.limbachdesign.de/2016/07/29/peanutbutterspiritlover.html</link>
+        <guid isPermaLink="true">http://github.limbachdesign.de/2016/07/29/peanutbutterspiritlover.html</guid>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
